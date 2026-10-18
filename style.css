@@ -20,3 +20,6 @@
 @media(max-width:640px){.hero-actions .button{min-height:42px;padding:10px 12px;gap:7px}.hero-actions .button svg{width:15px;height:15px;flex-basis:15px}}
 .figure-caption{font-size:11px;line-height:1.8;color:var(--muted);margin-top:11px;text-align:left;font-weight:400;letter-spacing:0}.hero-figure,.comparison-figure,.method-diagram{margin:0}.hero-figure .figure-caption{padding-inline:1px}.full-figure .figure-caption{padding-top:0}.task-gallery .figure-caption{font-size:10px;margin-top:10px}.gallery-source{display:block;font-size:10px;color:var(--muted);font-weight:400;margin-top:4px;line-height:1.6}.scene-card.active .gallery-source{color:var(--muted)}.method-diagram .figure-caption{max-width:100%;margin-top:12px}.full-figure{overflow:visible}
 @media(max-width:640px){.figure-caption{font-size:10px;line-height:1.8;margin-top:9px}.gallery-source{font-size:9px}.task-gallery .figure-caption{font-size:10px}.full-figure .zoom-trigger{overflow:auto}.full-figure .figure-caption{min-width:0}}
+
+.affiliations{display:grid;gap:3px;margin-top:15px;font-size:12px;line-height:1.6;color:var(--muted)}.affiliations sup{margin-right:3px;color:var(--orange);font-size:10px}
+@media(max-width:640px){.affiliations{margin-top:13px;font-size:11px;gap:4px}.affiliations sup{font-size:9px}}
